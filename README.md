@@ -16,7 +16,19 @@ to perform CRUD operations on employee records.
 - PostgreSQL
 - Git & GitHub
 
+## Project Structure
+src/
+├── DBUtil.java
+├── Employee.java
+├── EmployeeController.java
+├── EmployeeRunner.java
+└── LoggerUtil.java
+
 ## How to Run
 1. Create database and table in PostgreSQL
 2. Update DB credentials in DBUtil.java
 3. Run EmployeeRunner.java
+
+## Author
+**Utkarsh Dilip Pardhi**
+
